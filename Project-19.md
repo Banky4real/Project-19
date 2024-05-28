@@ -3,4 +3,46 @@
 
 ### Creating terraform cloud account and organization
 
-![terraform-cloud-account.png](./Images/terraform-cloud-account.png)
+![terraform-cloud-account](./Images/terraform-cloud-account.png)
+
+### Configuring our Workspace on Terraform Cloud, so we need to configure access to our version control system which is Gitlab on Terraform Cloud using the credentials provided by terraform cloud.
+
+### Configuring Version control system on terraform cloud
+
+![Configuring-Version-control-system-on-terraform-cloud](./Images/Configuring-Version-control-system-on-terraform-cloud.png)
+
+### Using the Open Authentication application on gitlab, we integrate gitlab with Terraform cloud using the credentials provided by terraform cloud and gitlab
+
+![integrating-gitlab-with-terraform-cloud](./Images/integrating-gitlab-with-terraform-cloud.png)
+
+![credentials-for-terraform-cloud](./Images/credentials-for-terraform-cloud.png)
+
+### Workspace created
+
+![workspace-created-successfully](./Images/workspace-created-successfully.png)
+
+### Configuring Workspace Environmental variables
+
+![workspace-environmental-variable](./Images/workspace-environmental-variable.png)
+
+### Packer Installation
+
+![packer-installed](./Images/packer-installed.png)
+
+### Amazon Plugin for packer Installed
+
+![packer-amazon-plugin-installed](./Images/packer-amazon-plugin-installed.png)
+
+### Packer Build run for Bastion, error encountered and AMI Changed to an available one
+
+![packer-build-run-for-bastion](./Images/packer-build-run-for-bastion.png)
+
+### AMI Changed to an available one and bastion ami built successfully with packer
+
+![bastion-AMI-successfully-built-with-packer](./Images/bastion-AMI-successfully-built-with-packer.png)
+
+### AMI available on Console and Instance terminated
+
+![AMI-available-on-console](./Images/ami-created.png)
+
+![instance-terminated](./Images/instance-terminated.png)
