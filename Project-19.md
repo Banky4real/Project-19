@@ -46,3 +46,27 @@
 ![AMI-available-on-console](./Images/ami-created.png)
 
 ![instance-terminated](./Images/instance-terminated.png)
+
+### Packer Build run for Nginx
+
+![packer-build-run-for-nginx](./Images/packer-build-run-for-nginx.png)
+
+### Nginx AMI available on Console
+
+![nginx-ami-available-on-console](./Images/nginx-ami-available-on-console.png)
+
+### Packer Build run for Ubuntu
+
+![packer-build-run-for-ubuntu](./Images/packer-build-run-for-ubuntu.png)
+
+### Ubuntu AMI available on Console
+
+![Ubuntu-ami-available-on-console](./Images/Ubuntu-ami-available-on-console.png)
+
+### Packer Build run for Web AMI
+
+![packer-build-run-for-web](./Images/packer-build-run-for-web.png)
+
+### WEB AMI available on Console
+
+![web-ami-available-on-console](./Images/web-ami-available-on-console.png)
