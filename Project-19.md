@@ -70,3 +70,62 @@
 ### WEB AMI available on Console
 
 ![web-ami-available-on-console](./Images/web-ami-available-on-console.png)
+
+### Changes pushed to Gitlab
+
+![changes-pushed-to-gitlab](./Images/changes-pushed-to-gitlab.png)
+
+### Changes available on Gitlab
+
+![changes-available-on-gitlab](./Images/changes-available-on-gitlab.png)
+
+### Terraform Cloud Triggered New Plan
+
+![new-plan-triggered-on-terraform-cloud](./Images/new-plan-triggered-on-terraform-cloud.png)
+
+### Terraform Plan Applied successfully after fixing some errors
+
+![terraform-apply-successful](./Images/terraform-apply-successful.png)
+
+### Target group fails health check
+
+![target-group-failed-health-check](./Images/target-group-failed-health-check.png)
+
+### Listeners Deregistered from Target group and Load Balancers
+
+![listeners-deregistered-from-LBs](./Images/listeners-deregistered-from-LBs.png)
+
+### Cloning down our ansible repo on our bastion server so that we will be able to connect to our aws account and dynamically pull down the ip addresses of our instances so as to be able to deploy on them
+
+![cloning-our-ansible-deploy-repo-on-bastion](./Images/cloning-our-ansible-deploy-repo-on-bastion.png)
+
+### Ansible can now dynamically pull down our inventory from our aws account
+
+![ansible-dynamic-inventory](./Images/ansible-dynamic-inventory.png)
+
+### Adding our listeners back to our load Balancer
+
+![terraform-cloud-ready-to-deploy-our-added-resources](./Images/terraform-cloud-ready-to-deploy-our-added-resources.png)
+
+### Running our playbook to deploy our wordpress and tooling application
+
+![playbook-ran-successfully](./Images/playbook-ran-successfully.png)
+
+### Checking the status of our wordpress website to be sure its working locally before accessing it on the Web
+![Word-press-website-working-locally](./Images/Word-press-website-working-locally.png)
+
+### Nginx Target group, tooling and wordpress target group turns Healthy after updating our playbook with our EFS access point and RDS Endpoint
+
+![nginx-target-group-healthy](./Images/nginx-target-group-healthy.png)
+
+[tooling-target-group-healthy](./Images/tooling-target-group-healthy.png)
+
+[wordpress-target-group-healthy](./Images/wordpress-target-group-healthy.png)
+
+### Tooling Website Live
+
+![tooling-website-live](./Images/tooling-website-live.png)
+
+### WordPress Website Live
+
+![wordpress-website-live](./Images/wordpress-website-live.png)
