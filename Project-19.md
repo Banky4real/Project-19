@@ -118,7 +118,11 @@
 
 ![nginx-target-group-healthy](./Images/nginx-target-group-healthy.png)
 
+### Tooling target Group healthy
+
 [tooling-target-group-healthy](./Images/tooling-target-group-healthy.png)
+
+### WordPress Target Group Healthy
 
 [wordpress-target-group-healthy](./Images/wordpress-target-group-healthy.png)
 
